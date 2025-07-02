@@ -17,14 +17,13 @@
 
 ## 💼 Work Experience
 
-**Service Operations TDS Intern** — *Quantigo AI*  
+**Service Operations TDS Intern** — [Quantigo AI](https://www.quantigo.ai/)  
 *April 2025 – Present*  
 - Led a team on ML data preprocessing for a U.S.-based client  
 - Ensured data quality, managed timelines, and improved model training pipelines  
 - Delivered high-impact results under tight deadlines
 
 ---
-
 
 ## 🏆 Achievements
 
@@ -37,8 +36,8 @@
 ## 📫 Let's Connect
 
 - 📧 Email: [aryan420175@gmail.com](mailto:aryan420175@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/your-username]([https://www.linkedin.com/in/your-username](https://www.linkedin.com/in/aryan-ahnaf-440a87363/)) 
-
+- 💼 LinkedIn: [linkedin.com/in/aryan-ahnaf-440a87363](https://www.linkedin.com/in/aryan-ahnaf-440a87363/)  
+- 🌐 Facebook: [facebook.com/aryanahnafabeg](https://www.facebook.com/aryanahnafabeg)
 
 ---
 
