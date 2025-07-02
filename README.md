@@ -17,8 +17,8 @@
 
 ## 💼 Work Experience
 
-**Service Operations Intern** — *Quantigo AI*  
-*Mar 2025 – May 2025*  
+**Service Operations TDS Intern** — *Quantigo AI*  
+*April 2025 – Present*  
 - Led a team on ML data preprocessing for a U.S.-based client  
 - Ensured data quality, managed timelines, and improved model training pipelines  
 - Delivered high-impact results under tight deadlines
