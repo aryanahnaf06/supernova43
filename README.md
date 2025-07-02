@@ -29,7 +29,6 @@
 ## 🏆 Achievements
 
 - Delivered **5+ real-world software projects** during academic and internship phases  
-- Top 25% of class with a **CGPA of 3.15**  
 - **3-month industry experience** in ML, team leadership & service delivery  
 - Former **Organizing Secretary** of Josephite Debating Club; enhanced public speaking & leadership
 
